@@ -9,14 +9,13 @@
 </head>
 
 <body>
-    <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic incidunt, doloremque expedita fugiat ut vero. Soluta a, explicabo vero aut autem inventore reiciendis dolore voluptas fugiat consequatur molestias eum id.
-        
+    <h1>Struktur Penulisan PHP
     </h1>
-
     <?php
-$txt = "PHP";
-echo "I love $txt!";
-?>
+    echo("Selamat datang di PHP Wildan")
+
+    ?>
+
 </body>
 
 </html>
