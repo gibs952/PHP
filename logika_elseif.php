@@ -14,7 +14,7 @@
     <?php
     // memasukan variabel umur
     $nilai = 80;
-    echo ("Umur anda $umur tahun <br>");
+    echo ("Umur anda $nilai tahun <br>");
     // Jika nilai lebih dari atau sama dengan 85
     if ($nilai>=85){
         echo ("Grade A");

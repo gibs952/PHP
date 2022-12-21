@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>While Loop di PHP
+    <h1>While di PHP
     </h1>
     <?php
     // echo("Selamat datang di PHP Wildan")
